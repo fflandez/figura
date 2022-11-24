@@ -9,7 +9,7 @@ const NavBar = () => {
         <nav>
             <li>Home</li>
             <li>Laminas</li>
-            <li>Figuras</li>
+            <li>Figuras.</li>
         </nav>
         <CartWitget />
     </div>
